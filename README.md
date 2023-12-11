@@ -1,1 +1,1 @@
-# Demand_Forecasting_And_Inventry_Managment
+# Demand Forecasting and Inventory Management
